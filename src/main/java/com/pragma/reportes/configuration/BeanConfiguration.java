@@ -1,7 +1,6 @@
 package com.pragma.reportes.configuration;
 
 
-import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import com.pragma.reportes.adapters.driven.feigns.adapter.UserFeignClientAdapter;
 import com.pragma.reportes.adapters.driven.feigns.clients.UserFeignClient;
 import com.pragma.reportes.adapters.driven.mongodb.adapter.ReportAdapter;

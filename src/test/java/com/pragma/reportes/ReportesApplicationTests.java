@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ReportesApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads() {//metodo de clase principal
 	}
 
 }
